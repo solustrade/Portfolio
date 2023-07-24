@@ -1,0 +1,11 @@
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\bin\Debug\ListarPastasEmList.exe.config
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\bin\Debug\ListarPastasEmList.exe
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\bin\Debug\ListarPastasEmList.pdb
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\obj\Debug\ListarPastasEmList.csproj.AssemblyReference.cache
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\obj\Debug\ListarPastasEmList.csproj.SuggestedBindingRedirects.cache
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\obj\Debug\ListarPastasEmList.Form1.resources
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\obj\Debug\ListarPastasEmList.Properties.Resources.resources
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\obj\Debug\ListarPastasEmList.csproj.GenerateResource.cache
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\obj\Debug\ListarPastasEmList.csproj.CoreCompileInputs.cache
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\obj\Debug\ListarPastasEmList.exe
+C:\Users\nova\Downloads\ListarPastasEmList\ListarPastasEmList\obj\Debug\ListarPastasEmList.pdb

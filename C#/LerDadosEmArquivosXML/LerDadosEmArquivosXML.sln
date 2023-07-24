@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LerDadosEmArquivosXML", "ListarPastasEmList\LerDadosEmArquivosXML.csproj", "{42BBCC44-F7B4-4499-BBA2-119916B17140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42BBCC44-F7B4-4499-BBA2-119916B17140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BBCC44-F7B4-4499-BBA2-119916B17140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BBCC44-F7B4-4499-BBA2-119916B17140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BBCC44-F7B4-4499-BBA2-119916B17140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A5ECAE9-F7BB-495B-8700-4440C26D85F0}
+	EndGlobalSection
+EndGlobal
