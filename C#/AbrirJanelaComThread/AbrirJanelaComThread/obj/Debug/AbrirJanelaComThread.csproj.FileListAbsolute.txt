@@ -1,0 +1,12 @@
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\bin\Debug\AbrirJanelaComThread.exe.config
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\bin\Debug\AbrirJanelaComThread.exe
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\bin\Debug\AbrirJanelaComThread.pdb
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\obj\Debug\AbrirJanelaComThread.csproj.AssemblyReference.cache
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\obj\Debug\AbrirJanelaComThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\obj\Debug\AbrirJanelaComThread.Form1.resources
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\obj\Debug\AbrirJanelaComThread.Properties.Resources.resources
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\obj\Debug\AbrirJanelaComThread.csproj.GenerateResource.cache
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\obj\Debug\AbrirJanelaComThread.csproj.CoreCompileInputs.cache
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\obj\Debug\AbrirJanelaComThread.exe
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\obj\Debug\AbrirJanelaComThread.pdb
+C:\Users\nova\Downloads\AbrirJanelaComThread\AbrirJanelaComThread\obj\Debug\AbrirJanelaComThread.WaitScreenMessage.resources
