@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Imprimir_ListBox\Imprimir_ListBox\bin\Debug\Imprimir_ListBox.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Imprimir_ListBox\Imprimir_ListBox\bin\Debug\Imprimir_ListBox.exe
+c:\users\user\documents\visual studio 2015\Projects\Imprimir_ListBox\Imprimir_ListBox\bin\Debug\Imprimir_ListBox.pdb
+c:\users\user\documents\visual studio 2015\Projects\Imprimir_ListBox\Imprimir_ListBox\obj\Debug\Imprimir_ListBox.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Imprimir_ListBox\Imprimir_ListBox\obj\Debug\Imprimir_ListBox.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Imprimir_ListBox\Imprimir_ListBox\obj\Debug\Imprimir_ListBox.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Imprimir_ListBox\Imprimir_ListBox\obj\Debug\Imprimir_ListBox.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Imprimir_ListBox\Imprimir_ListBox\obj\Debug\Imprimir_ListBox.exe
+c:\users\user\documents\visual studio 2015\Projects\Imprimir_ListBox\Imprimir_ListBox\obj\Debug\Imprimir_ListBox.pdb
