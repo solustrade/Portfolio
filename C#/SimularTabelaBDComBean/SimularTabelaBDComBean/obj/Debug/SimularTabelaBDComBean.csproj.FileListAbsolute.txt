@@ -1,0 +1,11 @@
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\bin\Debug\SimularTabelaBDComBean.exe.config
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\bin\Debug\SimularTabelaBDComBean.exe
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\bin\Debug\SimularTabelaBDComBean.pdb
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\obj\Debug\SimularTabelaBDComBean.csproj.AssemblyReference.cache
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\obj\Debug\SimularTabelaBDComBean.csproj.SuggestedBindingRedirects.cache
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\obj\Debug\SimularTabelaBDComBean.Properties.Resources.resources
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\obj\Debug\SimularTabelaBDComBean.csproj.GenerateResource.cache
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\obj\Debug\SimularTabelaBDComBean.csproj.CoreCompileInputs.cache
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\obj\Debug\SimularTabelaBDComBean.exe
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\obj\Debug\SimularTabelaBDComBean.pdb
+C:\Users\nova\Downloads\SimularTabelaBDComBean\SimularTabelaBDComBean\obj\Debug\SimularTabelaBDComBean.Form1.resources
