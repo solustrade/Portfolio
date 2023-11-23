@@ -1,0 +1,49 @@
+{
+  "jsonrpc":"2.0",
+  "result":{
+    "nr":26,
+    "lista":[
+      {
+        "codigo":"2",
+        "nome":"Pratos Quentes",
+        "foto":"./images/cupcake.png"
+      },
+      {
+        "codigo":"3",
+        "nome":"Sobremesas",
+        "foto":"./images/cupcake.png"
+      },
+      {
+        "codigo":"4",
+        "nome":"Bebidas Nao Alcoolicas",
+        "foto":"./images/cupcake.png"
+      },
+      {
+        "codigo":"7",
+        "nome":"Cocktails",
+        "foto":"./images/cupcake.png"
+      },
+      {
+        "codigo":"10",
+        "nome":"Cafes",
+        "foto":"./images/cupcake.png"
+      },
+      {
+        "codigo":"11",
+        "nome":"Consummes",
+        "foto":"./images/cupcake.png"
+      },
+      {
+        "codigo":"12",
+        "nome":"Porções",
+        "foto":"./images/cupcake.png"
+      },
+      {
+        "codigo":"13",
+        "nome":"Chocolates",
+        "foto":"./images/cupcake.png"
+      }
+    ]
+  },
+  "id":138827
+}

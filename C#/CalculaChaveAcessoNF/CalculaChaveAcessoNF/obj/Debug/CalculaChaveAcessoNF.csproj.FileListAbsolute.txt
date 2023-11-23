@@ -1,0 +1,14 @@
+D:\Projetos\Klaus\NFeSaida\CalculaChaveAcessoNF\CalculaChaveAcessoNF\bin\Debug\CalculaChaveAcessoNF.exe.config
+D:\Projetos\Klaus\NFeSaida\CalculaChaveAcessoNF\CalculaChaveAcessoNF\bin\Debug\CalculaChaveAcessoNF.exe
+D:\Projetos\Klaus\NFeSaida\CalculaChaveAcessoNF\CalculaChaveAcessoNF\bin\Debug\CalculaChaveAcessoNF.pdb
+D:\Projetos\Klaus\NFeSaida\CalculaChaveAcessoNF\CalculaChaveAcessoNF\obj\Debug\CalculaChaveAcessoNF.csproj.AssemblyReference.cache
+D:\Projetos\Klaus\NFeSaida\CalculaChaveAcessoNF\CalculaChaveAcessoNF\obj\Debug\CalculaChaveAcessoNF.csproj.CoreCompileInputs.cache
+D:\Projetos\Klaus\NFeSaida\CalculaChaveAcessoNF\CalculaChaveAcessoNF\obj\Debug\CalculaChaveAcessoNF.exe
+D:\Projetos\Klaus\NFeSaida\CalculaChaveAcessoNF\CalculaChaveAcessoNF\obj\Debug\CalculaChaveAcessoNF.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\CalculaChaveAcessoNF\CalculaChaveAcessoNF\bin\Debug\CalculaChaveAcessoNF.exe.config
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\CalculaChaveAcessoNF\CalculaChaveAcessoNF\bin\Debug\CalculaChaveAcessoNF.exe
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\CalculaChaveAcessoNF\CalculaChaveAcessoNF\bin\Debug\CalculaChaveAcessoNF.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\CalculaChaveAcessoNF\CalculaChaveAcessoNF\obj\Debug\CalculaChaveAcessoNF.csproj.AssemblyReference.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\CalculaChaveAcessoNF\CalculaChaveAcessoNF\obj\Debug\CalculaChaveAcessoNF.csproj.CoreCompileInputs.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\CalculaChaveAcessoNF\CalculaChaveAcessoNF\obj\Debug\CalculaChaveAcessoNF.exe
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\CalculaChaveAcessoNF\CalculaChaveAcessoNF\obj\Debug\CalculaChaveAcessoNF.pdb

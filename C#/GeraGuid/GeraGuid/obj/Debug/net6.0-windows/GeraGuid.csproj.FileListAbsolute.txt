@@ -1,0 +1,16 @@
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\bin\Debug\net6.0-windows\GeraGuid.exe
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\bin\Debug\net6.0-windows\GeraGuid.deps.json
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\bin\Debug\net6.0-windows\GeraGuid.runtimeconfig.json
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\bin\Debug\net6.0-windows\GeraGuid.dll
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\bin\Debug\net6.0-windows\GeraGuid.pdb
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\GeraGuid.Form1.resources
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\GeraGuid.csproj.GenerateResource.cache
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\GeraGuid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\GeraGuid.AssemblyInfoInputs.cache
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\GeraGuid.AssemblyInfo.cs
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\GeraGuid.csproj.CoreCompileInputs.cache
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\GeraGuid.dll
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\refint\GeraGuid.dll
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\GeraGuid.pdb
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\GeraGuid.genruntimeconfig.cache
+D:\Projetos\Desenvolvimento\C#\.Ferramentas desenvolvedor\GeraGuid\GeraGuid\obj\Debug\net6.0-windows\ref\GeraGuid.dll

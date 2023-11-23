@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/24 13:04:41.000.910,=d:\Users\master\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/24 13:07:41.000.762,C:\Projetos\Desktop\Solus DB Manager\MainForm.pas=d:\Users\master\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/24 13:07:41.000.762,C:\Projetos\Desktop\Solus DB Manager\MainForm.dfm=d:\Users\master\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/04/24 13:07:50.000.914,C:\Projetos\Desktop\Solus DB Manager\DBManager.dproj=d:\Users\master\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/04/24 13:13:21.000.027,=C:\Projetos\Desktop\Solus DB Manager\Funcoes.pas</Transaction>
+    <Transaction>2017/04/30 11:16:09.000.517,=C:\Projetos\Desktop\Solus DB Manager\Unit1.pas</Transaction>
+    <Transaction>2017/04/30 11:17:20.000.183,C:\Projetos\Desktop\Solus DB Manager\Unit1.pas=C:\Projetos\Desktop\Solus DB Manager\ModuloDeDados.pas</Transaction>
+    <Transaction>2017/04/30 11:17:20.000.183,C:\Projetos\Desktop\Solus DB Manager\Unit1.dfm=C:\Projetos\Desktop\Solus DB Manager\ModuloDeDados.dfm</Transaction>
+    <Transaction>2017/11/04 15:52:27.000.248,C:\Projetos\Desktop\Solus DB Manager\Funcoes.pas=</Transaction>
+    <Transaction>2017/11/04 15:52:40.000.400,=C:\Projetos\Desktop\Solusline\Bridge\Funções\Funcoes.pas</Transaction>
+    <Transaction>2018/08/21 08:37:56.000.184,=C:\Projetos\Desktop\Solusline\Bridge\Funções\WbemScripting_TLB.pas</Transaction>
+    <Transaction>2023/07/09 20:30:15.851,=D:\Projetos\Desenvolvimento\Delphi\Em execução\Desktop\Solusline\Bridge\Funções\Funcoes.pas</Transaction>
+    <Transaction>2023/07/09 20:30:15.888,=D:\Projetos\Desenvolvimento\Delphi\Em execução\Desktop\Solusline\Bridge\Funções\WbemScripting_TLB.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,12 @@
+D:\SerializarClasseParaXML\SerializarClasseParaXML.exe
+D:\SerializarClasseParaXML\SerializarClasseParaXML.dll
+D:\SerializarClasseParaXML\SerializarClasseParaXML.deps.json
+D:\SerializarClasseParaXML\SerializarClasseParaXML.runtimeconfig.json
+D:\SerializarClasseParaXML\SerializarClasseParaXML.pdb
+D:\SerializarClasseParaXML\Microsoft.IdentityModel.Abstractions.dll
+D:\SerializarClasseParaXML\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SerializarClasseParaXML\Microsoft.IdentityModel.Logging.dll
+D:\SerializarClasseParaXML\Microsoft.IdentityModel.Tokens.dll
+D:\SerializarClasseParaXML\Newtonsoft.Json.dll
+D:\SerializarClasseParaXML\System.IdentityModel.Tokens.Jwt.dll
+D:\SerializarClasseParaXML\Twilio.dll

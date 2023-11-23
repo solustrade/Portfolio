@@ -1,0 +1,104 @@
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.exe
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.deps.json
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.runtimeconfig.json
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.dll
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.pdb
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.Form1.resources
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.GenerateResource.cache
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.AssemblyInfoInputs.cache
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.AssemblyInfo.cs
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.CoreCompileInputs.cache
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.dll
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\refint\ConsultaCNPJ.dll
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.pdb
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.genruntimeconfig.cache
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ref\ConsultaCNPJ.dll
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.dll
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.pdb
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.dll.config
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.AssemblyReference.cache
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.CopyComplete
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Temp\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.exe
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.deps.json
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.runtimeconfig.json
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\RestSharp.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.dll.config
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.AssemblyReference.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.Form1.resources
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.GenerateResource.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.AssemblyInfoInputs.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.AssemblyInfo.cs
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.CoreCompileInputs.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.CopyComplete
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\refint\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.genruntimeconfig.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ref\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.exe
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.deps.json
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.runtimeconfig.json
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\RestSharp.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.dll.config
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.AssemblyReference.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.Form1.resources
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.GenerateResource.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.AssemblyInfoInputs.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.AssemblyInfo.cs
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.CoreCompileInputs.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.CopyComplete
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\refint\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.genruntimeconfig.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\obj\Debug\net6.0-windows\ref\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.exe
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.deps.json
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.runtimeconfig.json
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\ConsultaCNPJ.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\RestSharp.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\bin\Debug\net6.0-windows\Funcoes.dll.config
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.AssemblyReference.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.Form1.resources
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.GenerateResource.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.AssemblyInfoInputs.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.AssemblyInfo.cs
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.CoreCompileInputs.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.csproj.CopyComplete
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\refint\ConsultaCNPJ.dll
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.pdb
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ConsultaCNPJ.genruntimeconfig.cache
+D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ.old\ConsultaCNPJ\obj\Debug\net6.0-windows\ref\ConsultaCNPJ.dll

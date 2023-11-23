@@ -1,0 +1,61 @@
+uses
+  Classes, SysUtils, fphttpclient, jsonparser, jsondata;
+
+procedure GetCNPJData(const ACNPJ: string; const AApiKey: string);
+var
+  HTTPClient: TFPHTTPClient;
+  JSONParser: TJSONParser;
+  JSONData: TJSONData;
+  JSONObject: TJSONObject;
+  Response: String;
+  URL: String;
+  CompanyName: String;
+begin
+  // Cria uma instância do cliente HTTP
+  HTTPClient := TFPHTTPClient.Create(nil);
+
+  try
+    // Substitui {cnpj} na URL pelo valor real do CNPJ
+    URL := 'https://api.cnpja.com/office/' + ACNPJ;
+
+    // Configura o cabeçalho de autorização com a chave da API
+    HTTPClient.AddHeader('Authorization', AApiKey);
+    
+    try
+      // Executa a solicitação GET
+      Response := HTTPClient.Get(URL);
+
+      // Analisa os dados JSON da resposta
+      JSONParser := TJSONParser.Create(Response);
+      try
+        JSONData := JSONParser.Parse;
+        try
+          // Aqui você pode acessar JSONData que agora é uma representação da resposta JSON
+          // Você precisará converter para a classe apropriada como TJSONObject ou TJSONArray
+          // dependendo da estrutura do JSON para trabalhar com os dados.
+          // Por exemplo, para acessar o nome da empresa:
+          if JSONData.JSONType = jtObject then
+          begin
+            JSONObject := TJSONObject(JSONData);
+            // Acessa o objeto 'company' e então o campo 'name'
+            CompanyName := JSONObject.FindPath('company.name').AsString;
+            ShowMessage('Nome da empresa: ' + CompanyName);
+          end;
+        finally
+          JSONData.Free; // Sempre libere os dados JSON após o uso
+        end;
+      finally
+        JSONParser.Free; // Sempre libere o analisador após o uso
+      end;
+    except
+      on E: Exception do
+        ShowMessage('Falha ao obter dados do CNPJ: ' + E.Message);
+    end;
+
+  finally
+    HTTPClient.Free; // Sempre libere o cliente após o uso
+  end;
+end;
+
+// Exemplo de uso:
+// GetCNPJData('12345678000199', 'sua-chave-api-aqui');
