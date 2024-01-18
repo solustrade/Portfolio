@@ -1,9 +1,5 @@
-using Funcoes;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using RestSharp;
-using System.Collections.Generic;
-using System.Text.Json;
 
 namespace ConsultaCNPJ {
   public partial class Form1 : Form {
@@ -18,7 +14,7 @@ namespace ConsultaCNPJ {
 
       CNPJBean.Root? cnpj = new CNPJBean.Root();
 
-      JObject json = UserFunctions.ConsultaCNPJ();
+      JObject json = Utils.ConsultaCNPJ();
       string str = JsonConvert.SerializeObject(json);
 
       foreach (var item in json) {

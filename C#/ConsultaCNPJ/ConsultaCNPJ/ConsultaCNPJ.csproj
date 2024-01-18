@@ -14,10 +14,4 @@
     <PackageReference Include="RestSharp" Version="110.2.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="Funcoes">
-      <HintPath>D:\Projetos\Desenvolvimento\C#\_DLL\Solus_Dlls\Funcoes.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Desenvolvimento\\.Projetos Exemplo\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj": {}
+    "D:\\Projetos\\Desenvolvimento\\.Portfolio\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Desenvolvimento\\.Projetos Exemplo\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj": {
+    "D:\\Projetos\\Desenvolvimento\\.Portfolio\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Desenvolvimento\\.Projetos Exemplo\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj",
+        "projectUniqueName": "D:\\Projetos\\Desenvolvimento\\.Portfolio\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj",
         "projectName": "ConsultaCNPJ",
-        "projectPath": "D:\\Projetos\\Desenvolvimento\\.Projetos Exemplo\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj",
-        "packagesPath": "C:\\Users\\comer\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Desenvolvimento\\.Projetos Exemplo\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\obj\\",
+        "projectPath": "D:\\Projetos\\Desenvolvimento\\.Portfolio\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj",
+        "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\Desenvolvimento\\.Portfolio\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\comer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -73,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

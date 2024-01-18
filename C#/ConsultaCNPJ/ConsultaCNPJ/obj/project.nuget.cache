@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "nIB6jFrWtsvZcgfo8BO/BYW8sfc2vQr/9LDtusHYoO5UUvXgjXI3WG0CHAPgtLKEDoUtGLiUmiUP8RVRIV7+ow==",
+  "dgSpecHash": "BvPLQ9i/5PFD2S+qNJlEvFARwV+TaivLE73kroYJg0Kc4QtjUQmv91ztYI8mGvnF8Z6BYxAT4cNB/eQXJ1D9kg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Desenvolvimento\\.Projetos Exemplo\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj",
+  "projectFilePath": "D:\\Projetos\\Desenvolvimento\\.Portfolio\\C#\\ConsultaCNPJ\\ConsultaCNPJ\\ConsultaCNPJ.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\comer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\comer\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
-    "C:\\Users\\comer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\comer\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\comer\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+    "C:\\Users\\Master\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Master\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Master\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Master\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Master\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsultaCNPJ
-build_property.ProjectDir = D:\Projetos\Desenvolvimento\.Projetos Exemplo\C#\ConsultaCNPJ\ConsultaCNPJ\
+build_property.ProjectDir = D:\Projetos\Desenvolvimento\.Portfolio\C#\ConsultaCNPJ\ConsultaCNPJ\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
