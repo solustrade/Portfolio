@@ -1,4 +1,4 @@
-﻿unit Main;
+unit Main;
 
 {$mode objfpc}{$H+}
 
@@ -40,7 +40,7 @@ implementation
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
-  GetCNPJData('64397557000190', '');
+  GetCNPJData('64397557000190', '7c49c380-b862-40e2-bfb5-34391a038b61-663867f8-113d-4021-83ff-948afb19866b');
 end;
 
 procedure TForm1.Button2Click(Sender: TObject);
@@ -63,7 +63,7 @@ begin
   IdHTTP.IOHandler := IdSSL;
   IdHTTP.Request.ContentType := 'application/json';
   IdHTTP.Request.Accept := 'application/json';
-  IdHTTP.Request.CustomHeaders.Add('Authorization: ');
+  IdHTTP.Request.CustomHeaders.Add('Authorization: 63ca986c-b75c-46c3-bec6-014d3a5c4303-7306defb-0b4c-474c-b703-b14ff392297b');
 
   Response := IdHTTP.Get('https://api.cnpja.com/office/64397557000190');
 
