@@ -1,9 +1,9 @@
 # Exemplos de projetos de aprendizagem
 
-Olá, sejam benvidos ao meu portfólio de exemplos de aprendizagem em Python!
+Olá, sejam benvidos ao meu portfólio de exemplos de aprendizagem em Java!
 
 O intuito aqui é, além de registrar e persistir estes pequenos projetos, 
-também compartilhar estes conhecimentos para quem está iniciando no desenvolvimento de Python.
+também compartilhar estes conhecimentos para quem está iniciando no desenvolvimento de Java.
 
 São pequenos exemplos, porém com bastante tecnologia.
 
