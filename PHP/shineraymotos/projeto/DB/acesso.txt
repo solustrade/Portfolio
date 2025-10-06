@@ -1,0 +1,3 @@
+db: shineray_base
+user: shineray_admin
+senha: admin@2015

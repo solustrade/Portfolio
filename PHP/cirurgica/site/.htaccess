@@ -1,0 +1,24 @@
+RewriteEngine On
+
+#------ Home --------------------------------------------------------------------------------
+RewriteRule ^home.html$            /index.php?pagina=home
+
+#------ CSS ---------------------------------------------------------------------------------
+RewriteRule ^Asset0015027001A$     /include/css/estilos.php
+
+#------ Images ------------------------------------------------------------------------------
+RewriteRule ^Asset0016016001B$     /images/favicon.ico
+
+#------ Área restrita -----------------------------------------------------------------------
+RewriteRule ^Login$				   /access.php
+RewriteRule ^Direcao$			   /redirect.php
+
+#------ Cadastros ---------------------------------------------------------------------------
+RewriteRule ^Acao$			       /admin/cadastros.php
+RewriteRule ^Categorias$		   /admin/cad_categorias.php
+RewriteRule ^Produtos$		       /admin/cad_produtos.php
+RewriteRule ^Banner$		       /admin/cad_banner.php
+RewriteRule ^Empresa$		       /admin/cad_empresa.php
+
+#------ Ações -------------------------------------------------------------------------------
+RewriteRule ^Attributes$		   /admin/tratareg.php

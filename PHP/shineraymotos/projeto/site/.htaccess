@@ -1,0 +1,24 @@
+RewriteEngine On
+
+#----------------- Home ------------------------------------------
+RewriteRule ^$                    index.php?pagina=home
+
+#----------------- Admin -----------------------------------------
+RewriteRule ^Contato$             admin/contato/contato.php
+RewriteRule ^Restrito$            admin/control_panel/safe.php
+RewriteRule ^CPanel$              admin/control_panel/panel.php
+RewriteRule ^Ferramentas$         admin/ferramentas/index.php
+RewriteRule ^UpImage$             admin/ferramentas/envia_foto.php
+
+#----------------- Produtos --------------------------------------
+RewriteRule ^Ciclomotores$        produtos/produto/index.php?id=1
+RewriteRule ^Motos$               produtos/produto/index.php?id=2
+RewriteRule ^Triciclos$           produtos/produto/index.php?id=3
+RewriteRule ^Quadriciclos$        produtos/produto/index.php?id=4
+RewriteRule ^Detalhes$            produtos/detalhes/index.php
+
+#----------------- Cadastros -------------------------------------
+RewriteRule ^Cadastros$           admin/cadastros/produtos.php
+
+#----------------- Imagens ---------------------------------------
+RewriteRule ^Slides$              admin/slides/gera.php

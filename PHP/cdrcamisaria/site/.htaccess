@@ -1,0 +1,38 @@
+RewriteEngine On
+
+#------ Home --------------------------------------------------------------------------------
+RewriteRule ^$                      index.php?pagina=home
+
+#------ Administração -----------------------------------------------------------------------
+RewriteRule ^Restrito$              admin.php?pagina=cadastro
+
+#------ Loja --------------------------------------------------------------------------------
+RewriteRule ^Loja$				    carrinho.php?pagina=loja [L]
+RewriteRule ^carrinho$				cart.php?pagina=carrinho [L]
+RewriteRule ^produto\-([0-9]+)$ 	product.php?pagina=produto&id=$1 [L]
+RewriteRule ^Processos$             actions/add-to-cart.php
+RewriteRule ^CalculaFrete$          actions/calculate-freight.php
+RewriteRule ^pagamento$				checkout.php?pagina=pagamento [L]
+RewriteRule ^sucesso$				confirmation.php?pagina=confirmacao&status=2 [L]
+RewriteRule ^erro\-no\-pagamento$	confirmation.php?pagina=confirmacao&status=1 [L]
+
+#------ Painel de controle dos cadastros ----------------------------------------------------
+RewriteRule ^CPanel$                admin/admin/panel.php?pagina=painel
+RewriteRule ^CPanel_List_1$         admin/admin/panel.php?pagina=painel&act10n=1
+RewriteRule ^CPanel_List_2$         admin/admin/panel.php?pagina=painel&act10n=2
+
+#------ Cadastro de categorias --------------------------------------------------------------
+RewriteRule ^Categories$            admin/admin/cad_categ/c4dc4t3g.php?pagina=cadcateg
+RewriteRule ^PegarCateg$            admin/admin/cad_categ/pegar_categ.php
+RewriteRule ^SalvarCateg$           admin/admin/cad_categ/salvar_categ.php
+RewriteRule ^RemoverCateg$          admin/admin/cad_categ/remover_categ.php
+RewriteRule ^AtualizarCateg$        admin/admin/cad_categ/atualizar_categ.php
+
+#------ Cadastro de produtos ----------------------------------------------------------------
+RewriteRule ^Products$              admin/admin/cad_prod/c4dpr0d.php?pagina=cadprod
+RewriteRule ^PegarProd$             admin/admin/cad_prod/pegar_prod.php
+RewriteRule ^SalvarProd$            admin/admin/cad_prod/salvar_prod.php
+RewriteRule ^RemoverProd$           admin/admin/cad_prod/remover_prod.php
+RewriteRule ^AtualizarProd$         admin/admin/cad_prod/atualizar_prod.php
+RewriteRule ^ProductsPhotos$        admin/admin/envia_foto_prod/index.php
+RewriteRule ^UpLogo$                admin/admin/envia_foto_prod/envia_foto.php
